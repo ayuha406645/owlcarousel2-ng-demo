@@ -1,10 +1,10 @@
-# Descriptions on my medium
-
-[Angular 5 + Owl Carousel 2 安裝教學 – balabambe – Medium](https://lihi.cc/bSntx)
-
 # Owlcarousel2NgDemo
 
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 1.6.3.
+
+## Descriptions on my medium
+
+[Angular 5 + Owl Carousel 2 安裝教學 – balabambe – Medium](https://lihi.cc/bSntx)
 
 ## Development server
 
